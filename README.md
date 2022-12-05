@@ -24,3 +24,4 @@ liusxs,醉后不知天在水，满船清梦压星河。
 
 |![liusxs github stats](https://github-readme-stats.vercel.app/api/?username=liusxs&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liusxs&hide=java&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
 |-|-
+<img src="https://raw.githubusercontent.com/liusxs/liusxs/main/assets/github-contribution-grid-snake.gif"/>
