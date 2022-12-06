@@ -26,4 +26,4 @@ liusxs,醉后不知天在水，满船清梦压星河。
 |-|-
 
 My Github Stats Snake
-<img src="https://raw.githubusercontent.com/liusxs/liusxs/main/assets/github-contribution-grid-snake.gif"/>
+<img src="/>
