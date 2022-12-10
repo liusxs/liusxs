@@ -1,4 +1,4 @@
-### Hi there 
+### Welcome here
 
 <!--
 **deng-rui/deng-rui** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -  Pronouns: ...
 -  Fun fact: ...
 -->
-liusxs,醉后不知天在水，满船清梦压星河。
-
+liusxs,Learning is always endless.
 
 总访客次数：  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=liusxs.liusxs)
