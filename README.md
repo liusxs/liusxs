@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning React and TypeScript   
 
 
-> Mail: 1694181697@qq.com
+- Mail: 1694181697@qq.com
   
 
 <br/>  
