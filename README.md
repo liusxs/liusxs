@@ -5,6 +5,9 @@
   
 
 - 🌱 I’m currently learning React and TypeScript   
+
+
+> Mail: 1694181697@qq.com
   
 
 <br/>  
@@ -82,8 +85,6 @@
 <br />
 
 ----
-
-> Mail: 1694181697@qq.com
 
 |![liusxs github stats](https://github-readme-stats.vercel.app/api/?username=liusxs&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liusxs&hide=java&layout=compact&show_icons=true&title_color=fff&icon_color=ffff00&text_color=00ffff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
 |-|-
