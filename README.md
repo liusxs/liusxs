@@ -50,13 +50,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=liusxs&&style=flat-square" align="center" />
 </div>  
