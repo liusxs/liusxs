@@ -87,7 +87,6 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 > Mail: 1694181697@qq.com
 
